@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 import matplotlib
 matplotlib.use('TkAgg')  # Use TkAgg backend for better threading support
 from matplotlib.animation import FuncAnimation
-import numpy as np
 from typing import Dict, List, Callable, Optional
 
 class RealtimeVisualizer:
@@ -56,7 +55,7 @@ class RealtimeVisualizer:
         
         plt.tight_layout()
     
-    def animate(self):
+    def animate(self, frame):
         """Animation function called by FuncAnimation"""
         if not self.data_callback:
             return (self.line_ax, self.line_ay, self.line_az,
