@@ -33,11 +33,11 @@ The system consists of an ESP32-based sensor device that wirelessly transmits re
 ```json
 {
 "metadata": {
-                "timestamp": ,
-                "total_frame": ,
-                "duration_seconds": ,
-                "sampling_rate": ,
-                "session_name": ,
+    "timestamp": ,
+    "total_frame": ,
+    "duration_seconds": ,
+    "sampling_rate": ,
+    "session_name": ,
             },
 "data": {
     "Ax": [],
