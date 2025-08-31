@@ -49,14 +49,6 @@ The system consists of an ESP32-based sensor device that wirelessly transmits re
 }
 }
 ```
-## 🔧 Hardware Setup
-See [docs/hardware_setup.md](docs/hardware_setup.md)
-
-## 📱 Firmware Development
-See [docs/firmware_guide.md](docs/firmware_guide.md)
-
-## 📈 Data Collection
-See [docs/data_collection_guide.md](docs/data_collection_guide.md)
 
 ## 📄 Dataset Usage
 The collected dataset is available in `dataset/processed/badminton_stroke_dataset.json` and can be used independently for machine learning research.
