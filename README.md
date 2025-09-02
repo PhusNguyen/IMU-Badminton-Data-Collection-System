@@ -29,6 +29,9 @@ The system consists of an ESP32-based sensor device that wirelessly transmits re
 - Real-time data validation and quality control
 - Web interface for monitoring collection status
 
+## Real-time Visualization
+![alt text](visualization.png)
+
 ## 📊 Data Format
 ```json
 {
@@ -51,6 +54,6 @@ The system consists of an ESP32-based sensor device that wirelessly transmits re
 ```
 
 ## 📄 Dataset Usage
-The collected dataset is available in `dataset/processed/badminton_stroke_dataset.json` and can be used independently for machine learning research.
+The collected dataset is available in [Badminton Stroke Classifier](https://github.com/yourusername/badminton-stroke-classifier) and can be used independently for machine learning research.
 
 **Related Project**: [Badminton Stroke Classifier](https://github.com/yourusername/badminton-stroke-classifier)
