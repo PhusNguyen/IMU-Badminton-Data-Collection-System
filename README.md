@@ -1,4 +1,4 @@
-# IMU Badminton Data Collection System
+# Badminton IMU Data Collection System
 Complete hardware and software solution for capturing badminton stroke data using IMU sensors. This repository contains everything needed to build the data collection system and generate the dataset.
 
 ## 🏸 Overview
@@ -56,6 +56,6 @@ The system consists of an ESP32-based sensor device that wirelessly transmits re
 ```
 
 ## 📄 Dataset Usage
-The collected dataset is available in [Badminton Stroke Classifier](https://github.com/yourusername/badminton-stroke-classifier) and can be used independently for machine learning research.
+The collected dataset is available in [Realtime-IMU-Badminton-Stroke-Recognition](https://github.com/PhusNguyen/Realtime-IMU-Badminton-Stroke-Recognition) and can be used independently for machine learning research.
 
-**Related Project**: [Badminton Stroke Classifier](https://github.com/yourusername/badminton-stroke-classifier)
+**Related Project**: [Realtime-IMU-Badminton-Stroke-Recognition](https://github.com/PhusNguyen/Realtime-IMU-Badminton-Stroke-Recognition)
